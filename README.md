@@ -1,4 +1,4 @@
-# 💧 SMARTEN – Smart Water Management Frontend
+# 💧 SMARTEN – Smart Water Management
 
 <img width="1904" height="951" alt="Screenshot From 2025-07-27 10-58-31" src="https://github.com/user-attachments/assets/12a6876f-4c94-42c3-93b3-4aed0de96716" />
 
