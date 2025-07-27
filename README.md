@@ -1,5 +1,7 @@
 # 💧 SMARTEN – Smart Water Management Frontend
 
+<img width="1904" height="951" alt="Screenshot From 2025-07-27 10-58-31" src="https://github.com/user-attachments/assets/12a6876f-4c94-42c3-93b3-4aed0de96716" />
+
 **SMARTEN** is an intelligent, real-time **water monitoring and control system** that helps households and organizations track water usage, detect leakages, control valves, and manage billing through a modern web interface. This repository contains the **frontend** of the SMARTEN system built with **React**, **Tailwind CSS**, and integrates seamlessly with the SMARTEN backend and hardware components.
 
 ## 📌 Key Features
